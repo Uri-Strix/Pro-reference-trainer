@@ -15,8 +15,8 @@ Simple local tool for practicing using your own images.
 ## Preview
 
 <p align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-  <img src="https://github.com/user-attachments/assets/6191a84b-ec63-469b-a5f9-1d043011e8bc" height="260"/>
-  <img src="https://github.com/user-attachments/assets/8e133e3e-437e-433b-b1b4-73d668e493c5" height="260"/>
+  <img src="https://github.com/user-attachments/assets/6191a84b-ec63-469b-a5f9-1d043011e8bc" height="500"/>
+  <img src="https://github.com/user-attachments/assets/8e133e3e-437e-433b-b1b4-73d668e493c5" height="500"/>
 </p>
 
 
