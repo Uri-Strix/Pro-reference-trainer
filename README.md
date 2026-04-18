@@ -7,9 +7,9 @@ Simple local tool for practicing anatomy and gesture drawing using your own imag
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e133e3e-437e-433b-b1b4-73d668e493c5" height="260"/>
   <img src="https://github.com/user-attachments/assets/7d0abd15-d115-4fa8-8c7e-aab65b4c414c" height="260"/>
   <img src="https://github.com/user-attachments/assets/6191a84b-ec63-469b-a5f9-1d043011e8bc" height="260"/>
+  <img src="https://github.com/user-attachments/assets/8e133e3e-437e-433b-b1b4-73d668e493c5" height="260"/>
 </p>
 
 
