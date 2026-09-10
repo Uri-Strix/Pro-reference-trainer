@@ -1,6 +1,6 @@
 # Pro reference trainer (beta 0.2)
 
-Simple local tool for practicing using your own images.
+Simple tool for practicing using your own local images.
 
 ---
 
